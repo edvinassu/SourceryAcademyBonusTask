@@ -7,7 +7,6 @@ public class Main {
         if (args.length == 0){
             Scanner scan = new Scanner(System.in);
             input = scan.nextLine();
-
         }
         else {
             input = args[0];
